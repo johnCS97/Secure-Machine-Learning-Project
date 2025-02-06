@@ -1,2 +1,10 @@
 .venv
 datasets
+embeddings_Facenet.pkl
+embeddings_GhostFaceNet.pkl
+embeddings_VGG-Face.pkl
+results_report.txt
+scores_dec.csv
+scores.csv
+top10_dec.csv
+top10.csv
